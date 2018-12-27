@@ -20,4 +20,13 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+.happyMessage {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #b985e9;
+  font-size: 3em;
+  margin-top: 60px;
+}
 </style>
